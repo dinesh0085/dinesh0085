@@ -2,6 +2,8 @@
 <h3 align="center">A passionate MERN developer from India</h3>
 <p align="center"> <img  src="https://www.xhtmlchop.com/images/dedicated-design-ban.png"/> </p>
 
+
+<p align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh0085&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh0085" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh0085" alt="dinesh0085" /></a> </p>
@@ -32,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinesh0085&show_icons=true&locale=en" alt="dinesh0085" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh0085&" alt="dinesh0085" /></p>
+ </p>
