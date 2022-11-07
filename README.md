@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinesh Solanki</h1>
+<p align="center">Expertise in using HTML, CSS, JavaScript, and React.js to build user Interface strong knowledge of State, Props, Reducer, Container, React Router, and Context API to build high-quality, scalable, and reusable components. Proficient in creating REST API with JavaScript frameworks like Express.js, Node.js, and MongoDB. Looking to start a career as a web developer with a reputed firm driven by technology.</p>
 <h3 align="center">A passionate MERN developer from India</h3>
 <p align="center"> <img  src="https://www.xhtmlchop.com/images/dedicated-design-ban.png"/> </p>
 
