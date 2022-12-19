@@ -29,9 +29,9 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<p align="center" display="flex"> 
   
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.pdUXEZOe97FaELBLSuvVuQHaHa?pid=ImgDet&rs=1" alt="babel" width="40" height="40"/> </a> 
+ <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.pdUXEZOe97FaELBLSuvVuQHaHa?pid=ImgDet&rs=1" alt="babel" width="40" height="40"/> </a> 
   
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.yUIb5S_kj98Eg5tT-Onx1AHaHa?pid=ImgDet&rs=1" alt="css3" width="40" height="40"/> </a>
   
