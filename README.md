@@ -24,7 +24,7 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/dinesh-solanki/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.fTEgFBsyeeY_AGYf93hJhwHaHY?pid=ImgDet&rs=1" alt="https://www.linkedin.com/in/dinesh-solanki/" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/dinesh-solanki/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.fTEgFBsyeeY_AGYf93hJhwHaHY?pid=ImgDet&rs=1" alt="https://www.linkedin.com/in/dinesh-solanki/" height="30" width="40" /></a>
 </p>
 
