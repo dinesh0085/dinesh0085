@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Full-stack Web Development**
 
-- <a href="https://dinesh0085.github.io/"> 👨‍💻 All of my projects are available at </a> 
+- 👨‍💻 All of my projects are available at<a href="https://dinesh0085.github.io/"> Click Here </a> 
 
 - 💬 Ask me about **MERN**
 
