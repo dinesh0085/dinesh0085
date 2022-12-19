@@ -25,7 +25,7 @@
 
 <p align="center">
 <a></a>
-<a href="https://www.linkedin.com/in/dinesh-solanki/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.fTEgFBsyeeY_AGYf93hJhwHaHY?pid=ImgDet&rs=1" alt="https://www.linkedin.com/in/dinesh-solanki/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dinesh-solanki/" target="_blank"><img align="center" src="https://th.bing.com/th/id/OIP.fTEgFBsyeeY_AGYf93hJhwHaHY?pid=ImgDet&rs=1" alt="https://www.linkedin.com/in/dinesh-solanki/" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
