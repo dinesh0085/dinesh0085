@@ -13,17 +13,18 @@
 
 - 🌱 I’m currently learning **Full-stack Web Development**
 
-- 👨‍💻 All of my projects are available at<a href="https://dinesh0085.github.io/"> Click Here </a> 
+- 👨‍💻 All of my projects are available at<a href="https://dinesh0085.github.io/" target="blank"> Click Here </a> 
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **jdsolankijd123@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1lyI2nwucXbk7WrtL5_urdS_-l7rgjhUR/view?usp=sharing">Click Here</a> 
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1lyI2nwucXbk7WrtL5_urdS_-l7rgjhUR/view?usp=sharing" target="blank">Click Here</a> 
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
 
+<p align="center">
+<a href="https://www.linkedin.com/in/dinesh-solanki/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.fTEgFBsyeeY_AGYf93hJhwHaHY?pid=ImgDet&rs=1" alt="https://www.linkedin.com/in/dinesh-solanki/" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dinesh-solanki/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.fTEgFBsyeeY_AGYf93hJhwHaHY?pid=ImgDet&rs=1" alt="https://www.linkedin.com/in/dinesh-solanki/" height="30" width="40" /></a>
 </p>
 
