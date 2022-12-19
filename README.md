@@ -33,9 +33,9 @@
   
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.pdUXEZOe97FaELBLSuvVuQHaHa?pid=ImgDet&rs=1" alt="babel" width="40" height="40"/> </a> 
   
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.yUIb5S_kj98Eg5tT-Onx1AHaHa?pid=ImgDet&rs=1" alt="css3" width="40" height="40"/> </a>
   
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/5d/09/32/5d0932d4dd17c926806635893260205e.jpg" alt="express" width="40" height="40"/> </a> 
   
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   
