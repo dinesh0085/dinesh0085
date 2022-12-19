@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Full-stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://melodious-bonbon-2fb321.netlify.app/](https://melodious-bonbon-2fb321.netlify.app/)
+- <a src="https://dinesh0085.github.io/" 👨‍💻 All of my projects are available at /> 
 
 - 💬 Ask me about **MERN**
 
