@@ -23,7 +23,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/https://codepen.io/solankidinesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/solankidinesh" height="30" width="40" /></a>
+<a href="https://codepen.io/https://codepen.io/solankidinesh" target="blank"><img align="center" src="https://th.bing.com/th/id/R.31e1f2d1ed3f9f043d34cc010865d3c6?rik=3uya7pIWD%2fPnrw&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_411863.png&ehk=v%2fb%2b4wkOIhxot614ujGJRnBpysCxeWaTy2tQdydBobc%3d&risl=&pid=ImgRaw&r=0" alt="https://codepen.io/solankidinesh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dinesh-solanki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dinesh-solanki/" height="30" width="40" /></a>
 </p>
 
